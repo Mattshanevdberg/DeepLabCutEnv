@@ -1,4 +1,4 @@
-name: DLCtestenv2
+name: DLCenv_lecture
 channels:
   - defaults
 dependencies:
@@ -209,4 +209,3 @@ dependencies:
     - werkzeug==2.3.6
     - wrapt==1.15.0
     - zipp==3.15.0
-prefix: /home/matthew/anaconda3/envs/DLCtestenv2
